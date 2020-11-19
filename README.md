@@ -1,5 +1,5 @@
 # vue-data-visualization
-
+此工程为简单的基于echarts的数据可视化demo
 ## Project setup
 ```
 npm install
